@@ -1,4 +1,6 @@
 Hello World ! I'm Vinicius Coutinho :raised_hand_with_fingers_splayed:	
 
-  :diamonds: Working on my on projects, focused on learning                                                                                                                           :diamonds: Looking to improve myself every day
+  :diamonds: Working on my on projects, focused on learning 
+  
+  :diamonds: Looking to improve myself every day
   

@@ -1,3 +1,5 @@
+viniciuscoutinho/README.md
+
 # Hello World ! I'm Vinicius Coutinho :raised_hand_with_fingers_splayed: :brazil:	
 
  :diamonds: Working on my on projects, focused on learning 

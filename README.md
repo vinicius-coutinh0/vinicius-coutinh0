@@ -31,7 +31,11 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 <h3 align="left">My Stats</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciuscoutt&show_icons=true&count_private=true&theme=dark" alt="viniciuscoutt" /></p>
+<br/>
+  <p align="center"> 
+     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=viniciuscoutt&show_icons=true&count_private=true&theme=dark" alt="viniciuscoutt" />
+     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuscoutt&show_icons=true&locale=en&layout=compact&theme=dark" alt="viniciuscoutt"      />
+  </p>
+<br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuscoutt&show_icons=true&locale=en&layout=compact&theme=dark" alt="viniciuscoutt" /></p>
+![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ViniciusCoutt&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)

@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on [Framework Digital](https://www.frameworkdigital.com.br/)
 
-- 📚 I’m currently learning and improving **.NET C#, ASP.NET and Clean Architecture**
+- 📚 I’m currently learning and improving **.NET C#, TDD/BDD, CI/CD, Microservices and ReactJS**
 
 - 🤝 Looking to collaborate on **open-source projects!**
 

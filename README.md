@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinicius Coutinho</h1>
+<h2 align="center">Hi 👋, I'm Vinicius Coutinho</h2>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 

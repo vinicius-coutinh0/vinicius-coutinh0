@@ -45,6 +45,8 @@
 </p>
 -->
 
+<div align="center"> 
+
 ![.NET](https://img.shields.io/badge/.NET-05122A?style=flat&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -61,6 +63,7 @@
 ![Sass](https://img.shields.io/badge/Sass-05122A?style=flat&logo=sass)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 
+</div>
 
 
 

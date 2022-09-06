@@ -2,7 +2,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 
-- 👨‍💻 Woking on [Framework Digital](https://www.frameworkdigital.com.br/) as a Back-end Developer
+- 👨‍💻 Working at [Framework Digital](https://www.frameworkdigital.com.br/) as Back-end Developer
 
 - 🧑‍🎓 Computer Science Student of at [UFBA](https://ufba.br)
 
@@ -12,19 +12,19 @@
 
 - 📫 How to reach me: **http://www.linkedin.com/in/vinicius-coutinho/**
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
+<!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/vinicius-coutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-coutinho" height="30" width="40" /></a>
-</p>
+</p> -->
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 
 <h3 align="left">Languages and Tools:</h3>
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
+<!-- ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -54,7 +54,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?flat&logo=sqlite&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?flat&logo=github&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/-Postman-05122A?flat&logo=postman)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?flat&logo=postman)&nbsp; -->
 
 
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;

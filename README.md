@@ -4,7 +4,7 @@
 
 - 👨‍💻 Working at [Framework Digital](https://www.frameworkdigital.com.br/) as a Back-end Developer
 
-- 🧑‍🎓 Computer Science Student of at [UFBA](https://ufba.br)
+- 🧑‍🎓 Computer Science Student at [UFBA](https://ufba.br)
 
 - 📚 Learning and improving **.NET C#, TDD/BDD, CI/CD, Microservices and ReactJS**
 

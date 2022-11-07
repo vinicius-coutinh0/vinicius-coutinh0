@@ -6,7 +6,7 @@
 
 - 🧑‍🎓 Computer Science Student at [UFBA](https://ufba.br)
 
-- 📚 Learning and improving **.NET C#, TDD/BDD, CI/CD, Microservices and ReactJS**
+- 📚 Learning and improving **.NET C#**
 
 - 💬 Ask me about **Development/Hardware**
 

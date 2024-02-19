@@ -76,5 +76,6 @@
      <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vCoutinh0&show_icons=true&locale=en&layout=compact&theme=dark" alt="vCoutinh0"      />
   </p>
 <br>
-
+<!--
 ![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vCoutinh0&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)
+-->

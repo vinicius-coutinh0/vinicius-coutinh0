@@ -72,9 +72,9 @@
 
 <br/>
   <p align="center"> 
-     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=viniciuscoutt&show_icons=true&count_private=true&theme=dark" alt="viniciuscoutt" />
-     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=viniciuscoutt&show_icons=true&locale=en&layout=compact&theme=dark" alt="viniciuscoutt"      />
+     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vCoutinh0&show_icons=true&count_private=true&theme=dark" alt="vCoutinh0" />
+     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vCoutinh0&show_icons=true&locale=en&layout=compact&theme=dark" alt="vCoutinh0"      />
   </p>
 <br>
 
-![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=ViniciusCoutt&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)
+![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vCoutinh0&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)

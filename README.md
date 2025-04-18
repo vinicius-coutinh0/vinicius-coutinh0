@@ -2,11 +2,9 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 
-- 👨‍💻 Working at [Framework Digital](https://www.frameworkdigital.com.br/) as a Back-end Developer
+- 👨‍💻 Working at [Optibus]([https://www.frameworkdigital.com.br/](https://optibus.com/pt-br/)) as a Software Engineer
 
 - 🧑‍🎓 Computer Science Student at [UFBA](https://ufba.br)
-
-- 📚 Learning and improving **.NET C#**
 
 - 💬 Ask me about **Development/Hardware**
 

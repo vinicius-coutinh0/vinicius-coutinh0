@@ -2,7 +2,7 @@
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
 
-- 👨‍💻 Working at [Optibus](https://optibus.com/pt-br/) as a Software Engineer
+- 👨‍💻 Working at [Optibus](https://optibus.com) as a Software Engineer
 
 - 🧑‍🎓 Computer Science Student at [UFBA](https://ufba.br)
 

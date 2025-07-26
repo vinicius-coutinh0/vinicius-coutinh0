@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Vinicius Coutinho</h2>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/vinicius-coutinh0/vinicius-coutinh0/main/colored.png)](#installation)
 
 - 👨‍💻 Working at [Optibus](https://optibus.com) as a Software Engineer
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **http://www.linkedin.com/in/vinicius-coutinho/**
 
-<!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
+<!-- [![-----------------------------------------------------](https://raw.githubusercontent.com/vinicius-coutinh0/vinicius-coutinh0/main/colored.png)](#installation)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/vinicius-coutinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-coutinho" height="30" width="40" /></a>
 </p> -->
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/vinicius-coutinh0/vinicius-coutinh0/main/colored.png)](#installation)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -65,15 +65,15 @@
 
 
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/ViniciusCoutt/ViniciusCoutt/main/colored.png)](#installation)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/vinicius-coutinh0/vinicius-coutinh0/main/colored.png)](#installation)
 <h3 align="left">My Stats</h3>
 
 <br/>
   <p align="center"> 
-     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vCoutinh0&show_icons=true&count_private=true&theme=dark" alt="vCoutinh0" />
-     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vCoutinh0&show_icons=true&locale=en&layout=compact&theme=dark" alt="vCoutinh0"      />
+     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vinicius-coutinh0&show_icons=true&count_private=true&theme=dark" alt="vinicius-coutinh0" />
+     <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=vinicius-coutinh0&show_icons=true&locale=en&layout=compact&theme=dark" alt="vinicius-coutinh0"      />
   </p>
 <br>
 <!--
-![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vCoutinh0&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)
+![Vinicius Coutinho ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=vinicius-coutinh0&custom_title=Vinicius%20Contribution%20Graph&theme=xcode&bg_color=282828&hide_border=false&line=ffffff&point=ffffff)
 -->
